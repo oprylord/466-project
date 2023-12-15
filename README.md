@@ -6,7 +6,7 @@ This report covers the performance of four different machine learning models for
 
 ## Authors
 
-- [Damon Lin](dlin42@calpoly.edu)
-- [Jerry Tang](jtang72@calpoly.edu)
-- [Ritvik Durgempudi](rdurgemp@calpoly.edu)
-- [Wesley Tam](wtam08@calpoly.edu)
+- Damon Lin
+- Jerry Tang
+- Ritvik Durgempudi
+- Wesley Tam
